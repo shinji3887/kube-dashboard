@@ -1,1 +1,1 @@
-FROM kubernetesui/dashboard:v2.0.3
+FROM kubernetesui/dashboard:v2.0.3@sha256:40a128e12886ad7dc95c73931d20a0eb4fe9daf125735eff12e3380019ba2998
